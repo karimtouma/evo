@@ -141,5 +141,5 @@ This project is released under **The Unlicense** – see `LICENSE` for details.
 [7] Zhang et al., *Automatic Chain‑of‑Thought Prompting via Self‑Consistency*, 2023.
 
 ---
-*Maintainers:* [@ktouma](https://github.com/ktouma) & community.
+*Maintainers:* [@karimtouma](https://github.com/karimtouma).
 
